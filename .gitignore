@@ -14,5 +14,4 @@ ENV/
 env.bak/
 venv.bak/
 pip-selfcheck.json
-sound/
-.ipynb_checkpoints/
+sound/*.wav
